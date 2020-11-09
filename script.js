@@ -5,11 +5,10 @@ $("#currentDay").html(currentDay);
 
 var dayContent = JSON.parse(localStorage.getItem("input"));
 
-if(dayContent === null){
-    dayContent = ["","","","","","","","","","","",""];
-}
+
 
 // loop to give colors to raws based on present, past or future time
+
 
 for(i = 9; i < 18; i++){
     $("#"+i.toString()).html(dayContent[i-9])
