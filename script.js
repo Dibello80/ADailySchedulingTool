@@ -6,7 +6,6 @@ $("#currentDay").html(currentDay);
 var dayContent = JSON.parse(localStorage.getItem("input"));
 
 
-
 // loop to give colors to raws based on present, past or future time
 
 
