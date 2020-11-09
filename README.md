@@ -19,7 +19,7 @@ won't be lost one if the page is refreshed.
 ## ScreenShots of the app!
 
 ![alt text](https://github.com/Dibello80/ADailySchedulingTool/blob/main/DailyTool_1.png)
-![alt text](https://github.com/Dibello80/ASimpleDailySchedulingTool/blob/main/dailyplanscreen_02.png)
+![alt text](https://github.com/Dibello80/ADailySchedulingTool/blob/main/DailyTool_2.png)
 
 
 ## Credits 
