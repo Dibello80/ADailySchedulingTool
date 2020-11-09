@@ -16,6 +16,8 @@ The present time row is going to be always red while for the past hours rows the
 The app allows the user to store plans simply clicking on the save button (blue blocks with the floppy disk icon) so the data are stored in the localstorage and
 won't be lost one if the page is refreshed.
 
+link ==> https://dibello80.github.io/ADailySchedulingTool/
+
 ## ScreenShots of the app!
 
 ![alt text](https://github.com/Dibello80/ADailySchedulingTool/blob/main/DailyTool_1.png)
